@@ -39,7 +39,7 @@ This project is a relational database design for a **Library Management System**
 
 - `LibraryDB.mwb` → MySQL Workbench model
 - `ERdiagram.sql` → SQL schema script
-- `LibraryDB.png` / `LibraryDB.pdf` → EER diagram
+- `ER diagram.pdf` → EER diagram
 - `README.md` → Documentation file
 
 
